@@ -1,0 +1,39 @@
+h1 {
+    color: black;
+}
+
+
+
+header {
+    background-color: lightgrey;
+    text-align: center
+}
+
+nav {
+    background-color: darkgrey;
+    text-align: center
+}
+
+section {
+    background-color: lightgray;
+    width: 100%;
+    text-align: center 
+}
+
+article {
+    background-color: lightgray;
+    text-align: left
+}
+
+aside {
+    width: 100%;
+    text-align: center 
+}
+
+
+footer {
+    background-color: lightyellow;
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+}
